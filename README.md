@@ -38,9 +38,9 @@ https://github.com/user-attachments/assets/b060843d-53aa-4a28-94de-6eed65a92c0c
 
 ## 🎯 Implemented Parts
 
-* **Data Persistence:** Saves the last chosen theme color using JSON serialization and restores it on startup.
-* **OOP Architecture:** Built on object-oriented pillars including **Inheritance** (specialized `TransporterUnit`), **Polymorphism** (overridden methods), **Abstraction** (base classes like `Unit` and `Building`), and **Encapsulation** (getters/setters).
-* **Extensible Design:** Structured systems for easy expansion of buildings, units, and production mechanics.
+* **Data Persistence:** Saves the last selected theme color using JSON serialization and automatically restores it on startup.
+* **OOP Architecture:** Demonstrates object-oriented principles including **Inheritance** (specialized `TransporterUnit`), **Polymorphism**, **Abstraction** (base classes like `Unit` and `Building`), and **Encapsulation**.
+* **Extensible Design:** Designed for easy expansion of units, buildings, and production mechanics.
 
 ---
 
